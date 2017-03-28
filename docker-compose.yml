@@ -1,0 +1,5 @@
+apache-proxy:
+  build: .
+  ports:
+    - "9999:9999"
+
